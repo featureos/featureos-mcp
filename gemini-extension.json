@@ -1,0 +1,9 @@
+{
+  "name": "featureos",
+  "version": "1.0.0",
+  "mcpServers": {
+    "featureos": {
+      "httpUrl": "https://mcp.featureos.app/mcp"
+    }
+  }
+}
