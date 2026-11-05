@@ -145,3 +145,7 @@ IDs are opaque: the assistant gets them from a prior tool call (for example `lis
 - [FeatureOS MCP integration guide](https://help.featureos.app/en/articles/featureos-mcp-integration)
 - [FeatureOS Developer API](https://featureos.com/developer-api)
 - Pricing: see [featureos.com/pricing](https://featureos.com/pricing)
+
+## License
+
+Apache-2.0. See [LICENSE](LICENSE).
