@@ -134,7 +134,7 @@ IDs are opaque: the assistant gets them from a prior tool call (for example `lis
 - "Show me posts submitted in the last 7 days that are still unapproved."
 - "Get the full details of feature request 1234, then show the latest 10 comments."
 - "Find duplicates of 'dark mode' and merge them into the most-voted post."
-- "Assign post 1234 to priya@example.com and tag it ux."
+- "Assign post 1234 to alice@example.com and tag it ux."
 - "Draft a changelog for everything we shipped this week and label it Improvement."
 - "Search the help center for SSO and update the setup article with the new steps."
 
